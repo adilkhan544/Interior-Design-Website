@@ -1,0 +1,70 @@
+@font-face{
+    font-family: one;
+    src: url(./assets/font1.woff2);
+}
+@font-face{
+    font-family: two;
+    src: url(./assets/font2.woff2);
+}
+@font-face{
+    font-family: three;
+    src: url(./assets/font3.woff);
+}
+.section1{
+background:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(./assets/bedroom\ img.jpg)no-repeat center bottom/cover;
+}
+.img1{
+background: url(./assets/home1.jpg)no-repeat center center/cover;
+
+}
+.img1:hover{
+    background:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(./assets/home1.jpg)no-repeat center bottom/cover;
+}
+.img2{
+background: url(./assets/home2.jpg)no-repeat center center/cover;
+}
+.img2:hover{
+    background:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(./assets/home2.jpg)no-repeat center bottom/cover;
+}
+.img3{
+background: url(./assets/home3.jpg)no-repeat center center/cover;
+}
+.img3:hover{
+    background:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(./assets/home3.jpg)no-repeat center bottom/cover;
+}
+.img4{
+background: url(./assets/home4.jpg)no-repeat center center/cover;
+}
+.img4:hover{
+    background:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(./assets/home4.jpg)no-repeat center bottom/cover;
+}
+.img5{
+background: url(./assets/home5.jpg)no-repeat center center/cover;
+}
+.img5:hover{
+    background:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(./assets/home5.jpg)no-repeat center bottom/cover;
+}
+.img6{
+background: url(./assets/home6.jpg)no-repeat center center/cover;
+}
+.img6:hover{
+    background:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(./assets/home6.jpg)no-repeat center bottom/cover;
+}
+.img7{
+background: url(./assets/home7.jpg)no-repeat center center/cover;
+}
+.img7:hover{
+    background:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(./assets/home7.jpg)no-repeat center bottom/cover;
+}
+.img8{
+background: url(./assets/home8.jpg)no-repeat center center/cover;
+}
+.img8:hover{
+    background:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(./assets/home8.jpg)no-repeat center bottom/cover;
+}
+.img9{
+background: url(./assets/home9.jpg)no-repeat center center/cover;
+}
+.img9:hover{
+    background:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(./assets/home9.jpg)no-repeat center bottom/cover;
+}
